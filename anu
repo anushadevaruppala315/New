@@ -1,3 +1,10 @@
 Hi Anu,
 
 iam from hyd
+
+crontab –e Edit your crontab file, or create one if it doesn’t already exist.
+crontab –l Display your crontab file.
+crontab –r Remove your crontab file.
+crontab -u If combined with –e, edit a particular user’s Crontab file and if 
+combined with –l, display a particular user’s crontab file. If 
+combined with –r, deletes a particular user’s Crontab file
