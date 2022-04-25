@@ -1,0 +1,11 @@
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
